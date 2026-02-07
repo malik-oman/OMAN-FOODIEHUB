@@ -1,16 +1,32 @@
-# React + Vite
+# 🍔 FoodieHub – Frontend Landing Page
+<img width="1889" height="936" alt="image" src="https://github.com/user-attachments/assets/f8818e62-5903-464e-992f-cc2c0f5396ae" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+FoodieHub is a modern and responsive **food delivery / restaurant landing page** built using **React.js** and **Tailwind CSS**.  
+This project focuses on clean UI, smooth layout, and responsive design for all devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+🔗 https://oman-foodiehub.netlify.app/
 
-## React Compiler
+## 🛠 Tech Stack
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 📦 Vite
+- 🌐 Netlify (Deployment)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- Responsive modern landing page
+- Hero banner with gradient overlay
+- Clean typography and readable UI
+- Mobile-friendly layout
+- Fast performance with Vite
 
-## Expanding the ESLint configuration
+## 📂 Project Type
+Frontend React Landing Page
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧑‍💻 Author
+**Oman Malik**  
+GitHub: https://github.com/malik-oman
+
+## 📸 Preview
+Live demo available at the link above.
